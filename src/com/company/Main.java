@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Nhập vào số cần tìm: ");
         int soCanTim = mayQuet.nextInt();
         System.out.println("Vị trí trong mảng là: "+timViTriPhanTu(arr, soCanTim));
-        System.out.println("Nhập vào số cần xoá: ");
+        System.out.println("Nhập vào số cần xoá: hi");
         int soCanXoa = mayQuet.nextInt();
         int viTriCanXoa = timViTriPhanTu(arr, soCanXoa);
         // Xoá:
